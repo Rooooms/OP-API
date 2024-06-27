@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lWQFcfxSz2RDwGhRPSNsUeTZeSq9/yI7VbMIk2tSqCH51pUeOJ6kxFaC7N9VJr8pHw0viNFD5ikoKmufP0jYMw==",
+  "dgSpecHash": "yQDjzXvLtV013NhLw0gMpBXmWfjHkPqv1AkoW7BXSyJgg4bboGVpEQUz8RWtpo8JGRqfiyavD+/soc4B6/2QXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP-API\\OP-API.Core\\OP-API.Core.csproj",
+  "projectFilePath": "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP\\OP-API\\OP-API.Core\\OP-API.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RSANDRINO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\RSANDRINO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
