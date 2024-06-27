@@ -4163,11 +4163,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP-API.App\\OP-API.Core\\OP-API.Core.csproj",
-      "projectName": "OP-API.Core",
-      "projectPath": "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP-API.App\\OP-API.Core\\OP-API.Core.csproj",
+      "projectUniqueName": "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP-API.App\\OP-API.Data\\OP-API.Data.csproj",
+      "projectName": "OP-API.Data",
+      "projectPath": "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP-API.App\\OP-API.Data\\OP-API.Data.csproj",
       "packagesPath": "C:\\Users\\RSANDRINO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP-API.App\\OP-API.Core\\obj\\",
+      "outputPath": "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP-API.App\\OP-API.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
