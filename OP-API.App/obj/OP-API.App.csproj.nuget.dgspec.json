@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP-API.App\\OP-API.App\\OP-API.App.csproj": {}
+    "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP\\OP-API\\OP-API\\OP-API.App\\OP-API.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP-API.App\\OP-API.App\\OP-API.App.csproj": {
+    "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP\\OP-API\\OP-API\\OP-API.App\\OP-API.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP-API.App\\OP-API.App\\OP-API.App.csproj",
+        "projectUniqueName": "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP\\OP-API\\OP-API\\OP-API.App\\OP-API.App.csproj",
         "projectName": "OP-API.App",
-        "projectPath": "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP-API.App\\OP-API.App\\OP-API.App.csproj",
+        "projectPath": "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP\\OP-API\\OP-API\\OP-API.App\\OP-API.App.csproj",
         "packagesPath": "C:\\Users\\RSANDRINO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP-API.App\\OP-API.App\\obj\\",
+        "outputPath": "C:\\Users\\RSANDRINO\\Documents\\GitHub\\OP\\OP-API\\OP-API\\OP-API.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

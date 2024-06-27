@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OP-API.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a82b859d73b18f0aaf53af4522c8c5546038da47")]
 [assembly: System.Reflection.AssemblyProductAttribute("OP-API.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OP-API.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
